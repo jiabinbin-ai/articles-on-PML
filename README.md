@@ -1,5 +1,5 @@
 # The paper list on partial multi-label learning
-Partial multi-label learning (PML) can be regardeds as a multi-label extension of partial label learning or a partial label extension of multi-label learning. In this page, we only include officially published articles (indexed by dblp), excluding arXiv preprints. Articles are categorized primarily based on their technical details and experimental setups. If your article is missing or misclassified, please contact us for correction. 
+Partial multi-label learning (PML) can be regardeds as a multi-label extension of partial label learning or a partial label extension of multi-label learning. In this page, we only include officially published articles (indexed by dblp), excluding arXiv preprints. Articles are categorized primarily based on their technical details and experimental setups. If your article is missing or misclassified, please [contact us](https://jiabinbin-ai.github.io/) for correction. 
 
 **Category**: Standard PML; Multi-view PML; Semi-Supervised PML;  Few-shot PML; Feature Selection;
 
